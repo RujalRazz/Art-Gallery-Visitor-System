@@ -5,16 +5,22 @@ This project is a fully functional Art Gallery Visitor Management System built u
 The system allows an art gallery to register visitors, manage ticket types, track visits, handle purchases and cancellations, assign personal art advisors, calculate discounts and rewards, and store visitor activity through file handling.
 
 <pre>Features: 
-Visitor Types-
+Visitor Types
 The system supports three levels of visitors:
 Standard Visitor
-Visit limits
-Discount upgrade eligibility
-Basic reward system
+<ul>
+  <li>Visit limits</li>
+  <li>Discount upgrade eligibility</li>
+  <li>Basic reward system</li>
+</ul>
 Elite Visitor
-Access to Personal Art Advisor
-Exclusive event access
-Enhanced discount/reward mechanisms
+<ul>
+  <li>Access to Personal Art Advisor</li>
+  <li>Exclusive event access</li>
+  <li>Enhanced discount/reward mechanisms</li>
+</ul>
 ArtGalleryVisitor (Abstract Parent Class)
-Attributes & behaviors shared across all visitors
-Acts as the base for inheritance</pre>
+<ul>
+  <li>Attributes & behaviors shared across all visitors</li>
+  <li>Acts as the base for inheritance</li>
+</ul></pre>
