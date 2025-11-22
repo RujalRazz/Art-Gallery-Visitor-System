@@ -6,18 +6,18 @@ The system allows an art gallery to register visitors, manage ticket types, trac
 
 Features: <br>
 The system supports two levels of visitors: <br>
-1. Standard Visitor <br>
+1. Standard Visitor 
 - Visit limits <br>
 - Discount upgrade eligibility <br>
 - Basic reward system <br>
 
-2. Elite Visitor <br>
+2. Elite Visitor
 - Access to Personal Art Advisor <br>
 - Exclusive event access <br>
 - Enhanced discount/reward mechanisms <br>
 
 ### Parent class that is shared across all visitors
-* ArtGalleryVisitor (Abstract Parent Class) <br>
+ArtGalleryVisitor (Abstract Parent Class)
 - Attributes & behaviors shared across all visitors <br>
 - Acts as the base for inheritance <br>
 
